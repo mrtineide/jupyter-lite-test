@@ -114,3 +114,7 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+## Don't really know theese but do not want them in the repo, I think
+.jupyter_ystore.db
+.virtual_documents/
